@@ -26,8 +26,10 @@ import javax.xml.bind.annotation.XmlTransient;
 
 /**
  *
- * @author kims
- */
+ * @author kims 
+ *
+*/
+
 @Entity
 @Table(name = "POOL")
 @XmlRootElement
