@@ -6,7 +6,7 @@
 package com.acme.acmepools.entity;
 
 
-
+//assadf
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.Basic;
