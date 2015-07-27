@@ -5,7 +5,8 @@
  */
 package com.acme.acmepools.entity;
 
-//gf  
+//gf
+
 import java.io.Serializable;
 import java.util.Collection;
 import javax.persistence.Basic;
